@@ -1,0 +1,9 @@
+{
+  "author" : "Ockult Örtmästare Games, Stockholm Kartell",
+  "banner" : "images/banner.jpg",
+  "descr" : "A doom metal album of a game. A spiked flail to the face. Light on rules, heavy everything else.",
+  "id" : "morkborg",
+  "image" : "images/cover.jpg",
+  "name" : "Mörk Borg",
+  "version" : "0.9.0"
+}

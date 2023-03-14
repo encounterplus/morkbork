@@ -1,0 +1,55 @@
+[
+  {
+    "attributes" : {
+
+    },
+    "bookmark" : false,
+    "created" : "2023-03-13T10:47:18Z",
+    "data" : {
+      "agility" : 2,
+      "class" : "Fanged Deserter",
+      "classDescription" : "\nYou have thirty or so friends who never let you down: YOUR TEETH. Disloyal, deranged or simply uncontrollable, any group that didn’t boot you out you left anyway. But your parliament of teeth — enormous, protruding, thick and sharp — have always been your allies.",
+      "classFeatures" : [
+        {
+          "name" : "Clumsy and Dull-witted",
+          "text" : "Agility tests are DR+2, excluding defence. You are incapable of understanding scrolls."
+        },
+        {
+          "name" : "Bite Attack",
+          "text" : "DR10 to attack, d6 damage. You must be close to your target. 1–2 on d6 chance the enemy gets a free attack."
+        },
+        {
+          "name" : "The Brown Scimitar of Galgenbeck",
+          "text" : "A stinking sword you pulled from a military shit-ditch. D6 damage. DR10 attack and defence while you wield it. 1 in 6 chance a wounded enemy is smitten with potent sepsis, dying in 10 minutes."
+        }
+      ],
+      "hpCurrent" : 4,
+      "hpMaximum" : 4,
+      "items" : [
+        {
+          "active" : true,
+          "name" : "Tentacles of Zen",
+          "quantity" : 2,
+          "reference" : "\/item\/tentacles-of-zen",
+          "text" : "some text"
+        }
+      ],
+      "omens" : 1,
+      "presence" : 1,
+      "reference" : "\/item\/tentacles-of-zen",
+      "silver" : 90,
+      "strenght" : 0,
+      "strength" : 2,
+      "toughness" : -1
+    },
+    "descr" : "Your earliest memories are of a burnt-black building in Sarkash. Your home?\n\nNihilistic and inferiority complex. Hands caked with sores. Insecure shit-stirrer. Will talk about whoever just left the room.",
+    "id" : "237722E5-8D2C-4E39-BBB1-B732EF859444",
+    "image" : "karva_8oUzF3.jpg",
+    "name" : "Karva",
+    "slug" : "karva",
+    "tags" : [
+
+    ],
+    "token" : "karva_token_IdP8hD.png"
+  }
+]

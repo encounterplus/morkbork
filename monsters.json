@@ -1,0 +1,39 @@
+[
+  {
+    "attributes" : {
+
+    },
+    "bookmark" : false,
+    "created" : "2023-03-11T21:43:36Z",
+    "data" : {
+      "actions" : [
+        {
+          "name" : "Strike",
+          "text" : "d6 + special"
+        },
+        {
+          "name" : "Special",
+          "text" : "Paralyzing touch (Presence DR14 every round to break free)."
+        }
+      ],
+      "armor" : {
+        "name" : "Barrier (necro)",
+        "value" : "-d4"
+      },
+      "hp" : 15,
+      "subtitle" : "Undead (weak) necromancer"
+    },
+    "descr" : "No one can use Powers near this anti-magical wound in reality. Every round they can steal the contents of a nearby scroll and use this Power against its owner.",
+    "id" : "0FD45E71-8732-49EF-95D6-4AD25650B1CD",
+    "image" : "lich_SF1eNb.jpg",
+    "link" : "",
+    "name" : "Lich",
+    "page" : 41,
+    "slug" : "lich",
+    "source" : "MB",
+    "tags" : [
+
+    ],
+    "token" : "_token_09RaRX.png"
+  }
+]

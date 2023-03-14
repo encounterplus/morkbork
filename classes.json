@@ -1,0 +1,27 @@
+[
+  {
+    "attributes" : {
+
+    },
+    "bookmark" : false,
+    "created" : "2023-03-13T10:41:19Z",
+    "data" : {
+      "abilities" : "",
+      "features" : [
+        {
+          "name" : "Crumpled Monster Mask",
+          "text" : "Strikes primitive fear into lesser creatures like goblins, gnoums and children. While worn, they check Morale every round."
+        }
+      ],
+      "subtitle" : "You have thirty or so friends who never let you down: your teeth. Disloyal, deranged or simply uncontrollable, any group that didn’t boot you out you left anyway. But your parliament of teeth—enormous, protruding, thick and sharp—have always been your allies."
+    },
+    "descr" : "**Bite attack:** 10 to attack, d6 damage. You must be close to your target. 1–2 on d6 chance the enemy gets a free attack.\n\nBegins with **2d6 x 10s** and **d2 Omens.**\nHP: Toughness +d10\n\n## Abilities\n\nBuilt like a Bull, roll 3d6+2 for Strength. Not a Bright Spark, roll 3d6-1 for Agility and Presence. Normal Agility tests are DR14 instead of DR12, excluding defence. Illiterate; your are incapable of understanding scrolls. If you begin with one then reroll, eat it or use it as toilet paper. You also begin with one of the following:",
+    "id" : "2D8C01D6-B888-4BDC-A27E-5115EAE201A6",
+    "image" : "fanged-deserter_SiOulr.jpg",
+    "name" : "Fanged deserter",
+    "slug" : "fanged-deserter",
+    "tags" : [
+
+    ]
+  }
+]

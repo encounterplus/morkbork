@@ -1,0 +1,16 @@
+{
+  "title": "Item",
+  "sections": [
+    {
+      "type": "group",
+      "fields": [
+        {
+          "title": "Cost",
+          "placeholder": "Silver",
+          "type": "number",
+          "attribute": "data.cost"
+        }
+      ]
+    }
+  ]
+}

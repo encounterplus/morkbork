@@ -1,0 +1,8 @@
+{
+  "id": "morkborg",
+  "name": "Mörk Borg",
+  "type": "system",
+  "version": "0.9.0",
+  "description": "A doom metal album of a game. A spiked flail to the face. Light on rules, heavy everything else.",
+  "download": "https://github.com/encounterplus/morgborg/releases/download/0.9.0/morgborg.system"
+}
